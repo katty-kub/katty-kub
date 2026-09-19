@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-profile-banner.jpg" alt="Minimalistický JavaScript banner: curious, precise, focus quality" width="100%">
+  <img src="./assets/github-profile-banner.jpg" alt="GitHub profilový banner s mottem Life in Code" width="100%">
 </p>
 
 # Ahoj, jsem Katy 👋
