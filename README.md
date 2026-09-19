@@ -28,6 +28,25 @@ Absolvovala jsem kurzy zaměřené na webový vývoj u **ReactGirls** a **Czechi
 
 ## 📌 Vybrané projekty
 
+### [Manual Testing Portfolio](https://github.com/katty-kub/manual-testing-portfolio)
+
+QA portfolio, ve kterém postupně dokumentuji celý proces manuálního testování jednoduché webové aplikace s přihlašovacím formulářem a uživatelským dashboardem.
+
+Projekt zahrnuje:
+
+- požadavky aplikace a test plan,
+- testovací scénáře a test cases,
+- pozitivní a negativní testování,
+- Equivalence Partitioning a Boundary Value Analysis,
+- smoke a regression checklisty,
+- bug reporty včetně severity a priority,
+- exploratory testing,
+- závěrečný test report.
+
+**Zaměření:** Manual Testing · Test Cases · Bug Reporting · Smoke Testing · Regression Testing · Exploratory Testing
+
+> Projekt je ve vývoji a jednotlivé části průběžně doplňuji.
+
 ### [CLI Poznámkovník](https://github.com/katty-kub/CLI-poznamkovnik)
 
 Aplikace propojující příkazovou řádku, REST API, Express a PostgreSQL. Umožňuje vytvářet, zobrazovat, upravovat, mazat, vyhledávat a filtrovat poznámky.
@@ -58,7 +77,7 @@ Z pohledu testování jsem si na projektu procvičila:
 
 ## 🧩 Technický základ
 
-**Testování:** manuální testování · testovací scénáře · test cases · bug reporting · smoke a regresní testování · základy REST API · automation basics
+**Testování:** manuální testování · testovací scénáře · test cases · bug reporting · smoke a regresní testování · exploratory testing · základy REST API · automation basics
 
 **Webové technologie:** HTML · CSS · JavaScript · TypeScript · React · Node.js · Express · PostgreSQL
 
