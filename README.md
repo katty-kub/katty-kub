@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-profile-banner.jpg" alt="Minimalistický JavaScript banner: curious, precise, focus quality" width="100%">
+</p>
+
 # Ahoj, jsem Katy 👋
 
 ### Junior QA Engineer | Manual Testing | Automation Basics | JavaScript
